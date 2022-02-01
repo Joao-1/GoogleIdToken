@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "name": "siteoauth2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}

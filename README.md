@@ -1,0 +1,1 @@
+Apenas um mini projeto criado para conseguir obter o id_token do google mais fácilmente.
